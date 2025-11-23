@@ -1,8 +1,6 @@
 # Auto Zapret-Discord-Youtube launcher
 
 > [!CAUTION]
->
-> ### DEPENDENCIES
 > Вам нужно установить самому Python (У меня лично 3.10.6) и WinRAR 
 
 > [!IMPORTANT]
