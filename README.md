@@ -6,5 +6,5 @@
 > [!IMPORTANT]
 > Основной [Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube) я взял у [Flowseal](https://github.com/Flowseal)
 
-⭐Поддержка проекта
+⭐Поддержка проекта⭐ <br>
 Вы можете поддержать проект, поставив ⭐ этому репозиторию (сверху справа этой страницы)
